@@ -7,4 +7,5 @@ A fun and interactive bubble game built with vanilla JavaScript. Test your refle
 * CSS3: Styling, animations, and responsive design
 * JavaScript: Game logic, bubble generation, event handling
 
-## Demo Link
+## Game Link
+https://mzeeshanaltaf.github.io/bubble-game-js/
